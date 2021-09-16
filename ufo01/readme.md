@@ -9,7 +9,7 @@ If you like the project, let us know!
 
 ### How to edit 
 - `Clone` the repo
-- `Open` UFO file with your favorite font editor
+- `Open` and `edit` UFO file with your favorite font editor
 - `Export` UFO
 - `Commit` what du you add/change/modify 
 - `Push` UFO files
