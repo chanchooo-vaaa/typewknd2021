@@ -1,6 +1,6 @@
 ![chancho va](https://github.com/chanchooo-vaaa/info/blob/master/img/WhatsApp%20Image%202020-09-11%20at%2015.07.11.jpg?raw=true)
 
->Chancho va es un juego para diseñadores de tipografía aburridxs de la rutina y el trabajo solitario. Aquí los archivos circulan y lxs jugadorxs trabajan colaborativamente.
+>«Chancho va» es un juego para diseñadores de tipografía aburridxs de la rutina y el trabajo solitario. Aquí los archivos circulan y lxs jugadorxs trabajan colaborativamente.
 
 >El juego comienza cuando cada jugadxr es asignadx un archivo que contiene algunos glifos como pista. Entonces, simultáneamente, todxs deben dibujar algunos signos nuevos en los archivos recibidos, salvar, cerrar y pasar el archivo al siguiente jugadxr al grito de «¡chancho va!». A medida que avancen las rondas, los archivos irán completando su set de caracteres con el trabajo de todxs.
 
