@@ -3,7 +3,7 @@ It is open source, and its editable files are available from this repository.
 You can work on it with any type editor software but you should commit the UFO file.  
 The UFO file are the	exchange files because they can be opened and edited with many font editors.  
 Any feedback, bug reports, test results, and suggestions for additions are very welcome.   
-You can contact us using the Chancho Va issue tracker hear in Git.  
+You can contact us using the «Chancho Va» issue tracker hear in Git.  
    
 If you like the project, let us know!
 
@@ -11,7 +11,7 @@ If you like the project, let us know!
 - `Clone` the repo
 - `Open` and `edit` UFO file with your favorite font editor
 - `Export` UFO
-- `Commit` what du you add/change/modify 
+- `Commit` what you've added/changed/modified 
 - `Push` UFO files
 - `Add` your name at the contributors list.
 
