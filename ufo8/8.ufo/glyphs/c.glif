@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c" format="2">
+	<advance width="500"/>
+	<unicode hex="0063"/>
+	<outline>
+		<contour>
+			<point x="241" y="0" type="curve" smooth="yes"/>
+			<point x="444" y="0" type="line"/>
+			<point x="444" y="161" type="line"/>
+			<point x="187" y="161" type="line"/>
+			<point x="232" y="116" type="line"/>
+			<point x="232" y="384" type="line"/>
+			<point x="187" y="339" type="line"/>
+			<point x="444" y="339" type="line"/>
+			<point x="444" y="500" type="line"/>
+			<point x="51" y="500" type="line"/>
+			<point x="51" y="167" type="line" smooth="yes"/>
+			<point x="51" y="56"/>
+			<point x="113" y="0"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-25 11:17:13 +0000</string>
+		</dict>
+	</lib>
+</glyph>
