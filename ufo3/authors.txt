@@ -4,3 +4,5 @@
 # 
 # Names should be added to this file as: 
 # Name or Organization <email address> 
+
+Carolina Giovagnoli / Chancho va / laranadg@gmail.com
