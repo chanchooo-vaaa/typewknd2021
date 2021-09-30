@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="2">
 	<advance width="431"/>
-	<unicode hex="0072"/>
 	<outline>
 		<contour>
-			<point x="411" y="339" type="line"/>
-			<point x="411" y="500" type="line"/>
+			<point x="356" y="339" type="line"/>
+			<point x="491" y="334" type="line"/>
+			<point x="491" y="444"/>
+			<point x="429" y="500"/>
+			<point x="301" y="500" type="curve" smooth="yes"/>
 			<point x="301" y="500" type="line"/>
 			<point x="228" y="339" type="line"/>
 		</contour>
@@ -16,10 +18,4 @@
 			<point x="60" y="500" type="line"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-30 20:29:54 +0000</string>
-		</dict>
-	</lib>
 </glyph>
