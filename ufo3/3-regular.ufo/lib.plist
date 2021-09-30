@@ -2,27 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array/>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
-	<key>com.schriftgestaltung.font.userData</key>
-	<dict>
-		<key>GSDimensionPlugin.Dimensions</key>
-		<dict>
-			<key>CB1D6619-461F-4E59-B476-D20CCC041064</key>
-			<dict/>
-		</dict>
-	</dict>
-	<key>com.schriftgestaltung.fontMaster.userData</key>
-	<dict>
-		<key>GSOffsetHorizontal</key>
-		<integer>35</integer>
-		<key>GSOffsetMakeStroke</key>
-		<integer>1</integer>
-		<key>GSOffsetVertical</key>
-		<integer>50</integer>
-	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>CB1D6619-461F-4E59-B476-D20CCC041064</string>
+	<string>61AB2EB3-7818-486C-8D9B-9448C22F8790</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
