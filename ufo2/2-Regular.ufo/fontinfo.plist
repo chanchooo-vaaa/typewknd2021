@@ -24,19 +24,19 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<real>-18.0</real>
-		<real>0.0</real>
-		<real>500.0</real>
-		<real>518.0</real>
-		<real>800.0</real>
-		<real>820.0</real>
+		<integer>-18</integer>
+		<integer>0</integer>
+		<integer>500</integer>
+		<integer>518</integer>
+		<integer>800</integer>
+		<integer>820</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>1</string>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<real>-218.0</real>
-		<real>-200.0</real>
+		<integer>-218</integer>
+		<integer>-200</integer>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
