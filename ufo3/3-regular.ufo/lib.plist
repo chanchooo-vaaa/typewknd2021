@@ -4,8 +4,7 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>E</string>
-		<string>L</string>
+		<string>CHANCHO/space VA</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

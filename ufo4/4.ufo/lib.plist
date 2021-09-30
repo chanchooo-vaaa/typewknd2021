@@ -10,10 +10,16 @@
 		<string>rn</string>
 		<string>n</string>
 		<string>inan</string>
-		<string>nIaeinr</string>
+		<string>nIaeinrchancho va
+</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
+	<dict>
+		<key>GSCornerRadius</key>
+		<real>25.0</real>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>m01</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
