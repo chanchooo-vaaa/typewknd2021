@@ -3,11 +3,23 @@
 	<advance width="605"/>
 	<unicode hex="0076"/>
 	<outline>
+		<contour>
+			<point x="171" y="0" type="line"/>
+			<point x="347" y="0" type="line"/>
+			<point x="225" y="500" type="line"/>
+			<point x="49" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="445" y="0" type="line"/>
+			<point x="567" y="500" type="line"/>
+			<point x="391" y="500" type="line"/>
+			<point x="302" y="138" type="line"/>
+		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-30 20:46:49 +0000</string>
+			<string>2021-09-30 21:08:26 +0000</string>
 		</dict>
 	</lib>
 </glyph>
