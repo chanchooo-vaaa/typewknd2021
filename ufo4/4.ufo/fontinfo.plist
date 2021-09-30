@@ -16,27 +16,29 @@
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>https://scripts.sil.org/OFL</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-16</integer>
-		<integer>0</integer>
-		<integer>550</integer>
-		<integer>560</integer>
-		<integer>650</integer>
-		<integer>660</integer>
-		<integer>750</integer>
-		<integer>760</integer>
+		<real>-16.0</real>
+		<real>0.0</real>
+		<real>550.0</real>
+		<real>560.0</real>
+		<real>650.0</real>
+		<real>660.0</real>
+		<real>750.0</real>
+		<real>760.0</real>
 	</array>
 	<key>postscriptFontName</key>
 	<string>4</string>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-216</integer>
-		<integer>-200</integer>
+		<real>-216.0</real>
+		<real>-200.0</real>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
