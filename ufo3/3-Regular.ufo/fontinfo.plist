@@ -11,7 +11,11 @@
 	<key>familyName</key>
 	<string>3</string>
 	<key>openTypeHeadCreated</key>
-	<string>2021/09/30 07:40:18</string>
+	<string>2021/09/30 08:57:05</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>https://scripts.sil.org/OFL</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
