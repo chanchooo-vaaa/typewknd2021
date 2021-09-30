@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>550</integer>
+	<integer>800</integer>
 	<key>capHeight</key>
-	<integer>550</integer>
+	<integer>700</integer>
 	<key>descender</key>
-	<integer>-110</integer>
+	<integer>-200</integer>
 	<key>familyName</key>
 	<string>1</string>
 	<key>openTypeHeadCreated</key>
-	<string>2020/08/14 08:33:16</string>
+	<string>2020/08/13 17:25:30</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
@@ -20,19 +20,21 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-10</integer>
+		<integer>-20</integer>
 		<integer>0</integer>
-		<integer>425</integer>
-		<integer>435</integer>
-		<integer>550</integer>
-		<integer>560</integer>
+		<integer>500</integer>
+		<integer>520</integer>
+		<integer>700</integer>
+		<integer>720</integer>
+		<integer>800</integer>
+		<integer>818</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>1</string>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-120</integer>
-		<integer>-110</integer>
+		<integer>-220</integer>
+		<integer>-200</integer>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
@@ -45,6 +47,6 @@
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
-	<integer>425</integer>
+	<integer>500</integer>
 </dict>
 </plist>
