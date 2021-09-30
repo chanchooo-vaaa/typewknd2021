@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
-	<string>5</string>
+	<string>8</string>
 	<key>openTypeHeadCreated</key>
 	<string>2020/08/07 17:37:00</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -30,7 +30,7 @@
 		<integer>815</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>5</string>
+	<string>8</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-215</integer>
