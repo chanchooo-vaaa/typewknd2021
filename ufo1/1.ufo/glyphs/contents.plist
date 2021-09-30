@@ -54,6 +54,10 @@
 	<string>Y_.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
+	<key>one</key>
+	<string>one.glif</string>
+	<key>seven</key>
+	<string>seven.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 </dict>
