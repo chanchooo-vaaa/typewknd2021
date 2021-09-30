@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array/>
+	<array>
+		<string>ANCR</string>
+	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
