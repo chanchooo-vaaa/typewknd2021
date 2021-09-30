@@ -3,7 +3,17 @@
 DisplayStrings = (
 AWAEIAWA
 );
-date = "2021-09-30 05:40:18 +0000";
+customParameters = (
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+}
+);
+date = "2021-09-30 06:57:05 +0000";
 familyName = "3";
 fontMaster = (
 {
