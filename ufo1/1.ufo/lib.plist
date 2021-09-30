@@ -3,7 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array/>
+	<array>
+		<string>ENHA</string>
+		<string>N</string>
+		<string>A</string>
+		<string>O</string>
+	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
