@@ -5,6 +5,8 @@
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>afgimnbch</string>
+		<string>nr</string>
+		<string>/space abcdefghijklmnopqrstuvwxyz/space</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
