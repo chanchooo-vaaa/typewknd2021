@@ -22,5 +22,7 @@
 	<string>o.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
+	<key>tildecomb</key>
+	<string>tildecomb.glif</string>
 </dict>
 </plist>
