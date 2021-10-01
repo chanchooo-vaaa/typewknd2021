@@ -3,21 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array>
-		<string>n</string>
-		<string>ñ</string>
-		<string>k</string>
-		<string>eñeo</string>
-		<string>/ntilde.lig</string>
-		<string>çc</string>
-		<string>/k.001</string>
-		<string>aça</string>
-		<string>a</string>
-		<string>h</string>
-		<string>l</string>
-		<string>v</string>
-		<string>ayud</string>
-	</array>
+	<array/>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
