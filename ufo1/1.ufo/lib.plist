@@ -8,7 +8,8 @@
 		<string>IN</string>
 		<string>H7</string>
 		<string>R</string>
-		<string>CHANCHO VA TYPEWKND</string>
+		<string>CHANCHO/space VA/space TYPEWKND</string>
+		<string>BCÇNÑR</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -44,6 +45,7 @@
 		<string>A</string>
 		<string>B</string>
 		<string>C</string>
+		<string>Ccedilla</string>
 		<string>D</string>
 		<string>E</string>
 		<string>F</string>
@@ -55,6 +57,7 @@
 		<string>L</string>
 		<string>M</string>
 		<string>N</string>
+		<string>Ntilde</string>
 		<string>O</string>
 		<string>P</string>
 		<string>Q</string>
@@ -69,8 +72,8 @@
 		<string>Z</string>
 		<string>one</string>
 		<string>seven</string>
-		<string>space</string>
 		<string>exclam</string>
+		<string>space</string>
 	</array>
 </dict>
 </plist>
