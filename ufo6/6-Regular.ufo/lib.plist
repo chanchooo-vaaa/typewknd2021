@@ -4,12 +4,9 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>afgimnbch</string>
-		<string>nr</string>
-		<string>/space abcdefghijklmnopqrstuvwxyz/space</string>
-		<string>chancho/space va</string>
-		<string>n</string>
-		<string>ubchancho/space n/space vadbptypewtknd</string>
+		<string>qzchancho va
+typewknd</string>
+		<string>abc¸detkitfn/f_f ijghijklmnigr/n.001 opqrstuvwxy</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -37,10 +34,8 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<integer>12</integer>
+		<real>2.0</real>
 		<key>GSOffsetKeepCompatible</key>
-		<integer>1</integer>
-		<key>GSOffsetMakeStroke</key>
 		<integer>1</integer>
 		<key>GSOffsetPosition</key>
 		<integer>1</integer>
@@ -81,7 +76,10 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+		<string>n.001</string>
+		<string>f_f</string>
 		<string>space</string>
+		<string>cedilla</string>
 	</array>
 </dict>
 </plist>
