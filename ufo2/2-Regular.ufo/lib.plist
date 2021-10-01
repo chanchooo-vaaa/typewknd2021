@@ -3,34 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array>
-<<<<<<< HEAD
-		<string>chancho/space va</string>
-=======
-		<string>i</string>
->>>>>>> 3f6055f1c3eb77e2ff35f4d328754d5829fc1118
-	</array>
+	<array/>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
-	<key>com.schriftgestaltung.fontMaster.userData</key>
-	<dict>
-		<key>GSOffsetAutoStroke</key>
-		<true/>
-		<key>GSOffsetHorizontal</key>
-		<real>4.0</real>
-		<key>GSOffsetKeepCompatible</key>
-		<true/>
-		<key>GSOffsetMakeStroke</key>
-		<true/>
-		<key>GSOffsetVertical</key>
-		<real>4.0</real>
-	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>4263CA5F-8665-4E83-AB0E-1F7ED8838F85</string>
+	<string>master01</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<true/>
+	<false/>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -61,7 +42,6 @@
 		<string>Z</string>
 		<string>a</string>
 		<string>b</string>
-		<string>c</string>
 		<string>d</string>
 		<string>e</string>
 		<string>f</string>
