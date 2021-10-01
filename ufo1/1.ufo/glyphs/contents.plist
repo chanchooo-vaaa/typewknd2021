@@ -8,6 +8,8 @@
 	<string>B_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
+	<key>Ccedilla</key>
+	<string>C_cedilla.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
 	<key>E</key>
@@ -30,6 +32,8 @@
 	<string>M_.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
+	<key>Ntilde</key>
+	<string>N_tilde.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
 	<key>P</key>
