@@ -3,7 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array/>
+	<array>
+		<string>m</string>
+		<string>glifo</string>
+	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMasterID</key>
@@ -80,6 +83,7 @@
 		<string>exclam</string>
 		<string>hyphen</string>
 		<string>space</string>
+		<string>Nuevo glifo</string>
 	</array>
 </dict>
 </plist>
