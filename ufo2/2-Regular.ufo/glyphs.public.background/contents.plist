@@ -4,12 +4,12 @@
 <dict>
 	<key>exclam</key>
 	<string>exclam.glif</string>
-	<key>h</key>
-	<string>h.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>n</key>
+	<string>n.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>v</key>
