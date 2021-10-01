@@ -3,21 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array>
-		<string>H</string>
-		<string>IHeraon</string>
-		<string>a</string>
-		<string>rn</string>
-		<string>n</string>
-		<string>inan</string>
-		<string>nIaeinrchancho/space va
-</string>
-		<string>HIacehinur</string>
-		<string>chancho/space va
-typewknd</string>
-		<string>nvca</string>
-		<string>type/space wknd</string>
-	</array>
+	<array/>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
