@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="2">
 	<advance width="796"/>
-	<unicode hex="0077"/>
 	<outline>
 		<contour>
-			<point x="378" y="405" type="line"/>
-			<point x="383" y="391" type="line"/>
+			<point x="410" y="509" type="line"/>
+			<point x="417" y="498" type="line"/>
 			<point x="258" y="0" type="line"/>
 			<point x="248" y="0" type="line"/>
 			<point x="89" y="500" type="line"/>
@@ -50,10 +49,4 @@
 			<point x="758" y="407" type="line"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-10-01 12:45:09 +0000</string>
-		</dict>
-	</lib>
 </glyph>
