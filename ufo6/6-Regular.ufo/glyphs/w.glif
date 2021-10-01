@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="2">
-	<advance width="997"/>
+	<advance width="922"/>
 	<unicode hex="0077"/>
 	<outline>
-		<component base="v" xScale="0.95" yxScale="-0.0184" xOffset="12"/>
-		<component base="v" xScale="0.95" yxScale="0.0367" xOffset="402"/>
+		<component base="v" xScale="0.95" yxScale="-0.0184" xOffset="9"/>
+		<component base="v" xScale="0.95" yxScale="0.0367" xOffset="399"/>
 	</outline>
 	<lib>
 		<dict>
@@ -28,7 +28,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-10-01 16:20:19 +0000</string>
+			<string>2021-10-01 20:42:58 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>v</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

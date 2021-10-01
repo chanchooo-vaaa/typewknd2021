@@ -4,9 +4,7 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>qzchancho va
-typewknd</string>
-		<string>abc¸detkitfn/f_f ijghijklmnigr/n.001 opqrstuvwxy</string>
+		<string>abcdefghijklmnopqrstuvwxyz/n.001/s.001/f_f 0123456789/space ¸</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -77,7 +75,18 @@ typewknd</string>
 		<string>y</string>
 		<string>z</string>
 		<string>n.001</string>
+		<string>s.001</string>
 		<string>f_f</string>
+		<string>zero</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
 		<string>space</string>
 		<string>cedilla</string>
 	</array>

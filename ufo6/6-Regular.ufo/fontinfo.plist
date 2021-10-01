@@ -10,6 +10,25 @@
 	<integer>-180</integer>
 	<key>familyName</key>
 	<string>6</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>416</integer>
+			<key>y</key>
+			<integer>340</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>108</integer>
+			<key>y</key>
+			<integer>160</integer>
+		</dict>
+	</array>
 	<key>openTypeHeadCreated</key>
 	<string>2020/03/18 19:15:41</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -20,10 +39,10 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<real>-10.0</real>
-		<real>0.0</real>
-		<real>500.0</real>
-		<real>510.0</real>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>500</integer>
+		<integer>510</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>6</string>
