@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Q" format="2">
+<glyph name="ntilde" format="2">
 	<advance width="600"/>
-	<unicode hex="0051"/>
+	<unicode hex="00F1"/>
 	<outline>
+		<component base="n"/>
+		<component base="tilde" xOffset="60"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-10-01 19:59:19 +0000</string>
+			<string>2021-10-01 18:48:09 +0000</string>
 		</dict>
 	</lib>
 </glyph>

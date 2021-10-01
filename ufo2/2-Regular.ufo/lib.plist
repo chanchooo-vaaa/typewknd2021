@@ -6,17 +6,14 @@
 	<array>
 		<string>m</string>
 		<string>glifo</string>
-		<string>g    h. . </string>
+		<string>g/space/space/space/space h./space ./space</string>
 		<string>e</string>
-		<string>hanhovatypewkndñ </string>
+		<string>hanhovatypewkndñ/space</string>
 		<string>d</string>
 		<string>o</string>
-		<string>̃</string>
-		<string>c</string>
-		<string>̧</string>
-		<string>ABCDEFGHIJKLMNOPQRSTUVWXYZglifo abcçdefghijklmnñopqrstuvwxyz/c_h 0123456789 .,!-̧̃
-h</string>
-		<string>n</string>
+		<string>/tildecomb</string>
+		<string>nef</string>
+		<string>Hannover</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
