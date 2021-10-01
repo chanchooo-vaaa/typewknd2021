@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="E" format="2">
-	<advance width="507"/>
-	<unicode hex="0045"/>
+<glyph name="P" format="2">
+	<advance width="503"/>
 	<outline>
 		<contour>
 			<point x="135" y="66" type="line"/>
@@ -86,12 +85,4 @@
 			<point x="454" y="175"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-10-01 04:14:30 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>H</string>
-		</dict>
-	</lib>
 </glyph>
