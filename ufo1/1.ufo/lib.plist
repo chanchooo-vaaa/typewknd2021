@@ -4,12 +4,9 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>AUNCR</string>
-		<string>IN</string>
-		<string>H7</string>
-		<string>R</string>
-		<string>CHANCHO/space VA/space TYPEWKND</string>
-		<string>BCÇNÑR</string>
+		<string>O345689RS01</string>
+		<string>ORQ</string>
+		<string>XK</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -70,10 +67,18 @@
 		<string>X</string>
 		<string>Y</string>
 		<string>Z</string>
+		<string>zero</string>
 		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
 		<string>seven</string>
-		<string>exclam</string>
+		<string>eight</string>
+		<string>nine</string>
 		<string>space</string>
+		<string>exclam</string>
 	</array>
 </dict>
 </plist>
