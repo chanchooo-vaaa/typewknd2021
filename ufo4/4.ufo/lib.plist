@@ -10,10 +10,13 @@
 		<string>rn</string>
 		<string>n</string>
 		<string>inan</string>
-		<string>nIaeinrchancho va
+		<string>nIaeinrchancho/space va
 </string>
 		<string>HIacehinur</string>
-		<string>nm</string>
+		<string>chancho/space va
+typewknd</string>
+		<string>nvca</string>
+		<string>type/space wknd</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -82,6 +85,7 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+		<string>k.001</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -92,10 +96,10 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
-		<string>space</string>
 		<string>period</string>
 		<string>comma</string>
 		<string>hyphen</string>
+		<string>space</string>
 	</array>
 </dict>
 </plist>
