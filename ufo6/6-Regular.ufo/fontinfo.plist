@@ -20,10 +20,10 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<real>-10.0</real>
-		<real>0.0</real>
-		<real>500.0</real>
-		<real>510.0</real>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>500</integer>
+		<integer>510</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>6</string>

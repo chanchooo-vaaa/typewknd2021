@@ -3,11 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array>
-		<string>qzchancho va
-typewknd</string>
-		<string>abc¸detkitfn/f_f ijghijklmnigr/n.001 opqrstuvwxy</string>
-	</array>
+	<array/>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
@@ -53,6 +49,7 @@ typewknd</string>
 		<string>a</string>
 		<string>b</string>
 		<string>c</string>
+		<string>ccedilla</string>
 		<string>d</string>
 		<string>e</string>
 		<string>f</string>
@@ -64,6 +61,7 @@ typewknd</string>
 		<string>l</string>
 		<string>m</string>
 		<string>n</string>
+		<string>ntilde</string>
 		<string>o</string>
 		<string>p</string>
 		<string>q</string>
@@ -76,9 +74,13 @@ typewknd</string>
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
-		<string>n.001</string>
 		<string>f_f</string>
+		<string>one</string>
+		<string>four</string>
+		<string>five</string>
+		<string>eight</string>
 		<string>space</string>
+		<string>tilde</string>
 		<string>cedilla</string>
 	</array>
 </dict>
