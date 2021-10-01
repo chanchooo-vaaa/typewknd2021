@@ -4,24 +4,46 @@
 	<unicode hex="0069"/>
 	<outline>
 		<contour>
-			<point x="88" y="500" type="move"/>
-			<point x="88" y="0" type="line"/>
-			<point x="116" y="0" type="line"/>
-			<point x="116" y="500" type="line"/>
-			<point x="144" y="500" type="line"/>
-			<point x="144" y="0" type="line"/>
-			<point x="172" y="0" type="line"/>
 			<point x="172" y="500" type="line"/>
+			<point x="172" y="10" type="line"/>
+			<point x="154" y="10" type="line"/>
+			<point x="154" y="500" type="line"/>
+			<point x="116" y="500" type="line"/>
+			<point x="116" y="10" type="line"/>
+			<point x="98" y="10" type="line"/>
+			<point x="98" y="500" type="line"/>
+			<point x="88" y="500" type="line"/>
+			<point x="88" y="0" type="line"/>
+			<point x="126" y="0" type="line"/>
+			<point x="126" y="490" type="line"/>
+			<point x="144" y="490" type="line"/>
+			<point x="144" y="0" type="line"/>
+			<point x="182" y="0" type="line"/>
+			<point x="182" y="500" type="line"/>
 		</contour>
 		<contour>
-			<point x="88" y="800" type="move"/>
-			<point x="88" y="691" type="line"/>
-			<point x="116" y="691" type="line"/>
-			<point x="116" y="800" type="line"/>
-			<point x="144" y="800" type="line"/>
-			<point x="144" y="691" type="line"/>
-			<point x="172" y="691" type="line"/>
-			<point x="172" y="800" type="line"/>
+			<point x="172" y="760" type="line"/>
+			<point x="172" y="660" type="line"/>
+			<point x="154" y="660" type="line"/>
+			<point x="154" y="760" type="line"/>
+			<point x="116" y="760" type="line"/>
+			<point x="116" y="660" type="line"/>
+			<point x="98" y="660" type="line"/>
+			<point x="98" y="760" type="line"/>
+			<point x="88" y="760" type="line"/>
+			<point x="88" y="650" type="line"/>
+			<point x="126" y="650" type="line"/>
+			<point x="126" y="750" type="line"/>
+			<point x="144" y="750" type="line"/>
+			<point x="144" y="650" type="line"/>
+			<point x="182" y="650" type="line"/>
+			<point x="182" y="760" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-10-01 12:31:22 +0000</string>
+		</dict>
+	</lib>
 </glyph>
