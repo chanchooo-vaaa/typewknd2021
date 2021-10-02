@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ntilde" format="2">
-	<advance width="623"/>
+	<advance width="593"/>
 	<unicode hex="00D1"/>
 	<outline>
 		<contour>
@@ -43,7 +43,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-10-01 16:54:12 +0000</string>
+			<string>2021-10-02 22:29:01 +0000</string>
 		</dict>
 	</lib>
 </glyph>
