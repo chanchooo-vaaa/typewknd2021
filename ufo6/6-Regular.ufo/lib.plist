@@ -4,7 +4,10 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>abcdefghijklmnopqrstuvwxyz/n.001/s.001/f_f 0123456789/space ¸</string>
+		<string>abcdefghijkl
+mnopqrstuv
+wxyz/n.001/s.001/f_f 0123
+456789/space ¸</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -89,6 +92,9 @@
 		<string>nine</string>
 		<string>space</string>
 		<string>cedilla</string>
+		<string>tilde</string>
+		<string>ccedilla</string>
+		<string>ntilde</string>
 	</array>
 </dict>
 </plist>
