@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="2">
-	<advance width="600"/>
+	<advance width="502"/>
 	<unicode hex="004D"/>
 	<outline>
 		<contour>
-			<point x="70" y="700" type="line"/>
-			<point x="70" y="0" type="line"/>
-			<point x="202" y="0" type="line"/>
-			<point x="202" y="183" type="line"/>
-			<point x="84" y="138" type="line"/>
-			<point x="268" y="138" type="line"/>
-			<point x="215" y="182" type="line"/>
-			<point x="249" y="0" type="line"/>
-			<point x="380" y="0" type="line"/>
-			<point x="414" y="182" type="line"/>
-			<point x="361" y="138" type="line"/>
-			<point x="472" y="138" type="line"/>
-			<point x="427" y="183" type="line"/>
-			<point x="427" y="0" type="line"/>
-			<point x="486" y="0" type="line"/>
-			<point x="486" y="700" type="line"/>
-			<point x="341" y="700" type="line"/>
-			<point x="321" y="518" type="line"/>
-			<point x="366" y="563" type="line"/>
-			<point x="251" y="563" type="line"/>
-			<point x="304" y="519" type="line"/>
-			<point x="280" y="700" type="line"/>
+			<point x="43" y="700" type="line"/>
+			<point x="43" y="0" type="line"/>
+			<point x="175" y="0" type="line"/>
+			<point x="175" y="183" type="line"/>
+			<point x="57" y="138" type="line"/>
+			<point x="241" y="138" type="line"/>
+			<point x="188" y="182" type="line"/>
+			<point x="222" y="0" type="line"/>
+			<point x="353" y="0" type="line"/>
+			<point x="387" y="182" type="line"/>
+			<point x="334" y="138" type="line"/>
+			<point x="445" y="138" type="line"/>
+			<point x="400" y="183" type="line"/>
+			<point x="400" y="0" type="line"/>
+			<point x="459" y="0" type="line"/>
+			<point x="459" y="700" type="line"/>
+			<point x="314" y="700" type="line"/>
+			<point x="294" y="518" type="line"/>
+			<point x="339" y="563" type="line"/>
+			<point x="224" y="563" type="line"/>
+			<point x="277" y="519" type="line"/>
+			<point x="253" y="700" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-10-01 19:19:05 +0000</string>
+			<string>2021-10-02 22:50:25 +0000</string>
 		</dict>
 	</lib>
 </glyph>
