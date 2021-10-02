@@ -18,6 +18,7 @@
 		<string>juana</string>
 		<string>i</string>
 		<string>gauna</string>
+		<string>Habcçdefghijklmnñopqrtuvw/space yz/c_h 26!</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -64,7 +65,6 @@
 		<string>X</string>
 		<string>Y</string>
 		<string>Z</string>
-		<string>Nuevo glifo</string>
 		<string>a</string>
 		<string>b</string>
 		<string>c</string>
@@ -104,11 +104,11 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
-		<string>space</string>
 		<string>period</string>
 		<string>comma</string>
 		<string>exclam</string>
 		<string>hyphen</string>
+		<string>space</string>
 		<string>tildecomb</string>
 		<string>cedillacomb</string>
 	</array>
