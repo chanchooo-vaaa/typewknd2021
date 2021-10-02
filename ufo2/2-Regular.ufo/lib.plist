@@ -4,7 +4,17 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>ABCDEFGHIJKLMNOPQRSTUVWXYZglifo/space abcçdefghijklmnñopqrstuvwxyz/c_h 0123456789/space .,!-/tildecomb/cedillacomb</string>
+		<string>ABCDEFGHIJKLMNOPQRSTUVWXYZglifo abcçdefghijklmnñopqrstuvwxyz/c_h 0123456789 .,!-̧̃</string>
+		<string>Hueso</string>
+		<string>f</string>
+		<string>type</string>
+		<string>v</string>
+		<string>type</string>
+		<string>t</string>
+		<string>h</string>
+		<string>knd</string>
+		<string>y</string>
+		<string>glifo</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
