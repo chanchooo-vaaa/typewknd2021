@@ -4,16 +4,7 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>m</string>
-		<string>glifo</string>
-		<string>g/space/space/space/space h./space ./space</string>
-		<string>e</string>
-		<string>hanhovatypewkndñ/space</string>
-		<string>d</string>
-		<string>o</string>
-		<string>/tildecomb</string>
-		<string>nef</string>
-		<string>Hannover</string>
+		<string>ABCDEFGHIJKLMNOPQRSTUVWXYZglifo/space abcçdefghijklmnñopqrstuvwxyz/c_h 0123456789/space .,!-/tildecomb/cedillacomb</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

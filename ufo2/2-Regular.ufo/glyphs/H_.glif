@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
-	<advance width="699"/>
+	<advance width="655"/>
 	<unicode hex="0048"/>
 	<outline>
 		<contour>
-			<point x="604" y="0" type="move"/>
-			<point x="604" y="759" type="line"/>
-			<point x="576" y="759" type="line"/>
-			<point x="576" y="3" type="line"/>
-			<point x="548" y="3" type="line"/>
-			<point x="548" y="20"/>
-			<point x="548" y="614"/>
-			<point x="548" y="760" type="curve"/>
-			<point x="520" y="760" type="line"/>
-			<point x="520" y="412" type="line"/>
-			<point x="179" y="412" type="line"/>
-			<point x="179" y="0" type="line"/>
-			<point x="151" y="0" type="line"/>
-			<point x="151" y="760" type="line"/>
-			<point x="123" y="760" type="line"/>
-			<point x="123" y="0" type="line"/>
-			<point x="95" y="0" type="line"/>
-			<point x="95" y="760" type="line"/>
+			<point x="582" y="0" type="move"/>
+			<point x="582" y="759" type="line"/>
+			<point x="554" y="759" type="line"/>
+			<point x="554" y="3" type="line"/>
+			<point x="526" y="3" type="line"/>
+			<point x="526" y="20"/>
+			<point x="526" y="614"/>
+			<point x="526" y="760" type="curve"/>
+			<point x="498" y="760" type="line"/>
+			<point x="498" y="412" type="line"/>
+			<point x="157" y="412" type="line"/>
+			<point x="157" y="0" type="line"/>
+			<point x="129" y="0" type="line"/>
+			<point x="129" y="760" type="line"/>
+			<point x="101" y="760" type="line"/>
+			<point x="101" y="0" type="line"/>
+			<point x="73" y="0" type="line"/>
+			<point x="73" y="760" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-10-01 19:42:13 +0000</string>
+			<string>2021-10-02 22:45:20 +0000</string>
 		</dict>
 	</lib>
 </glyph>
