@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
-	<string>New Font</string>
+	<string>5</string>
 	<key>openTypeHeadCreated</key>
 	<string>2020/06/26 01:04:45</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -34,14 +34,14 @@
 		<integer>816</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>NewFont-Italic</string>
+	<string>5-itlic</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-206</integer>
 		<integer>-200</integer>
 	</array>
 	<key>styleMapFamilyName</key>
-	<string>New Font Italic</string>
+	<string>5 Italic</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
