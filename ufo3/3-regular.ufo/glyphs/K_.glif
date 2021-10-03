@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
-	<advance width="371"/>
+	<advance width="324"/>
 	<unicode hex="004B"/>
 	<outline>
 		<contour>
-			<point x="43" y="700" type="line"/>
-			<point x="43" y="0" type="line"/>
-			<point x="102" y="0" type="line"/>
-			<point x="102" y="233"/>
-			<point x="102" y="467"/>
-			<point x="102" y="700" type="curve"/>
+			<point x="35" y="700" type="line"/>
+			<point x="35" y="0" type="line"/>
+			<point x="94" y="0" type="line"/>
+			<point x="94" y="233"/>
+			<point x="94" y="467"/>
+			<point x="94" y="700" type="curve"/>
 		</contour>
 		<contour>
-			<point x="97" y="245" type="line"/>
-			<point x="192" y="245" type="line"/>
-			<point x="349" y="700" type="line"/>
-			<point x="165" y="700" type="line"/>
-			<point x="127" y="413" type="line"/>
-			<point x="187" y="432" type="line"/>
-			<point x="84" y="432" type="line"/>
+			<point x="89" y="245" type="line"/>
+			<point x="184" y="245" type="line"/>
+			<point x="341" y="700" type="line"/>
+			<point x="157" y="700" type="line"/>
+			<point x="119" y="413" type="line"/>
+			<point x="179" y="432" type="line"/>
+			<point x="76" y="432" type="line"/>
 		</contour>
 		<contour>
-			<point x="97" y="245" type="line"/>
-			<point x="86" y="80" type="line"/>
-			<point x="189" y="80" type="line"/>
-			<point x="118" y="179" type="line"/>
-			<point x="157" y="3" type="line"/>
-			<point x="338" y="3" type="line"/>
-			<point x="192" y="245" type="line"/>
+			<point x="89" y="245" type="line"/>
+			<point x="78" y="80" type="line"/>
+			<point x="181" y="80" type="line"/>
+			<point x="110" y="179" type="line"/>
+			<point x="149" y="3" type="line"/>
+			<point x="330" y="3" type="line"/>
+			<point x="184" y="245" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-10-02 22:50:24 +0000</string>
+			<string>2021-10-03 12:34:47 +0000</string>
 		</dict>
 	</lib>
 </glyph>

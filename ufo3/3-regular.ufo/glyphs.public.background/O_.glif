@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="O" format="2">
-	<advance width="319"/>
+	<advance width="297"/>
 	<outline>
 		<contour>
-			<point x="43" y="0" type="line"/>
-			<point x="279" y="0" type="line"/>
-			<point x="279" y="56" type="line"/>
-			<point x="210" y="56" type="line"/>
-			<point x="210" y="150" type="line"/>
-			<point x="279" y="150" type="line"/>
-			<point x="279" y="700" type="line"/>
-			<point x="43" y="700" type="line"/>
+			<point x="35" y="0" type="line"/>
+			<point x="271" y="0" type="line"/>
+			<point x="271" y="56" type="line"/>
+			<point x="202" y="56" type="line"/>
+			<point x="202" y="150" type="line"/>
+			<point x="271" y="150" type="line"/>
+			<point x="271" y="700" type="line"/>
+			<point x="35" y="700" type="line"/>
 		</contour>
 	</outline>
 </glyph>

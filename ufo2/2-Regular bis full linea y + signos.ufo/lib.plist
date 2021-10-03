@@ -36,10 +36,10 @@
 		<string>d</string>
 		<string>k</string>
 		<string>glifo</string>
-		<string>glifo</string>
 		<string>w</string>
 		<string>/c_h</string>
 		<string>2</string>
+		<string>ab/space</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -86,7 +86,6 @@
 		<string>X</string>
 		<string>Y</string>
 		<string>Z</string>
-		<string>Nuevo glifo</string>
 		<string>a</string>
 		<string>b</string>
 		<string>c</string>
@@ -126,11 +125,11 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
-		<string>space</string>
 		<string>period</string>
 		<string>comma</string>
 		<string>exclam</string>
 		<string>hyphen</string>
+		<string>space</string>
 		<string>tildecomb</string>
 		<string>cedillacomb</string>
 	</array>

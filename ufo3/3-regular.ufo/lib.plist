@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array>
-		<string>ABCEHKLMNOPTVWXY46</string>
-	</array>
+	<array/>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMasterID</key>
@@ -25,6 +23,7 @@
 		<string>G</string>
 		<string>H</string>
 		<string>I</string>
+		<string>Iacute</string>
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>

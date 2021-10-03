@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="C" format="2">
-	<advance width="320"/>
+	<advance width="303"/>
 	<unicode hex="0043"/>
 	<outline>
 		<contour>
-			<point x="43" y="0" type="line"/>
-			<point x="279" y="0" type="line"/>
-			<point x="279" y="56" type="line"/>
-			<point x="210" y="56" type="line"/>
-			<point x="210" y="150" type="line"/>
-			<point x="279" y="150" type="line"/>
-			<point x="279" y="700" type="line"/>
-			<point x="43" y="700" type="line"/>
+			<point x="35" y="0" type="line"/>
+			<point x="271" y="0" type="line"/>
+			<point x="271" y="56" type="line"/>
+			<point x="202" y="56" type="line"/>
+			<point x="202" y="150" type="line"/>
+			<point x="271" y="150" type="line"/>
+			<point x="271" y="700" type="line"/>
+			<point x="35" y="700" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-10-02 22:50:25 +0000</string>
+			<string>2021-10-03 12:34:47 +0000</string>
 		</dict>
 	</lib>
 </glyph>

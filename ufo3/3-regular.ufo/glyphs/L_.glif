@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-	<advance width="316"/>
+	<advance width="289"/>
 	<unicode hex="004C"/>
 	<outline>
 		<contour>
-			<point x="43" y="700" type="line"/>
-			<point x="43" y="0" type="line"/>
-			<point x="279" y="0" type="line"/>
-			<point x="279" y="490" type="line"/>
-			<point x="216" y="490" type="line"/>
-			<point x="216" y="700" type="line"/>
+			<point x="35" y="700" type="line"/>
+			<point x="35" y="0" type="line"/>
+			<point x="271" y="0" type="line"/>
+			<point x="271" y="490" type="line"/>
+			<point x="208" y="490" type="line"/>
+			<point x="208" y="700" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-10-02 22:50:25 +0000</string>
+			<string>2021-10-03 12:34:47 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
-	<advance width="322"/>
+	<advance width="306"/>
 	<unicode hex="0048"/>
 	<outline>
 		<contour>
-			<point x="43" y="700" type="line"/>
-			<point x="43" y="0" type="line"/>
-			<point x="102" y="0" type="line"/>
-			<point x="102" y="233"/>
-			<point x="102" y="467"/>
-			<point x="102" y="700" type="curve"/>
+			<point x="35" y="700" type="line"/>
+			<point x="35" y="0" type="line"/>
+			<point x="94" y="0" type="line"/>
+			<point x="94" y="233"/>
+			<point x="94" y="467"/>
+			<point x="94" y="700" type="curve"/>
 		</contour>
 		<contour>
-			<point x="147" y="700" type="line"/>
-			<point x="147" y="0" type="line"/>
-			<point x="279" y="0" type="line"/>
-			<point x="279" y="700" type="line"/>
+			<point x="139" y="700" type="line"/>
+			<point x="139" y="0" type="line"/>
+			<point x="271" y="0" type="line"/>
+			<point x="271" y="700" type="line"/>
 		</contour>
 		<contour>
-			<point x="89" y="655" type="line"/>
-			<point x="89" y="69" type="line"/>
-			<point x="225" y="69" type="line"/>
-			<point x="225" y="655" type="line"/>
+			<point x="81" y="655" type="line"/>
+			<point x="81" y="69" type="line"/>
+			<point x="217" y="69" type="line"/>
+			<point x="217" y="655" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-10-02 22:50:24 +0000</string>
+			<string>2021-10-03 12:34:47 +0000</string>
 		</dict>
 	</lib>
 </glyph>
