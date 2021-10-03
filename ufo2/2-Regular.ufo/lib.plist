@@ -3,35 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array>
-		<string>ABCDEFGHIJKLMNOPQRSTUVWXYZglifo/space abcçdefghijklmnñopqrstuvwxyz/c_h 0123456789/space .,!-/tildecomb/cedillacomb</string>
-		<string>Hueso</string>
-		<string>f</string>
-		<string>type</string>
-		<string>v</string>
-		<string>t</string>
-		<string>h</string>
-		<string>knd</string>
-		<string>y</string>
-		<string>glifo</string>
-		<string>za</string>
-		<string>juana</string>
-		<string>i</string>
-		<string>gauna</string>
-		<string>astrid</string>
-		<string>s</string>
-	</array>
+	<array/>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
-	<key>com.schriftgestaltung.fontMaster.userData</key>
-	<dict>
-		<key>GSOffsetHorizontal</key>
-		<real>-20.0</real>
-		<key>GSOffsetProportional</key>
-		<true/>
-		<key>GSOffsetVertical</key>
-		<real>-2.0</real>
-	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>master01</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
@@ -66,7 +40,6 @@
 		<string>X</string>
 		<string>Y</string>
 		<string>Z</string>
-		<string>Nuevo glifo</string>
 		<string>a</string>
 		<string>b</string>
 		<string>c</string>
@@ -116,8 +89,6 @@
 	</array>
 	<key>public.postscriptNames</key>
 	<dict>
-		<key>Nuevo glifo</key>
-		<string>N_u_e_v_o_space_g_l_i_f_o</string>
 		<key>cedillacomb</key>
 		<string>uni0327</string>
 	</dict>
