@@ -9,11 +9,9 @@
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
-	<string>5</string>
+	<string>chanchova_tpwknd_21_5</string>
 	<key>openTypeHeadCreated</key>
 	<string>2020/06/26 01:04:45</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Italic</string>
 	<key>openTypeOS2Type</key>
 	<array>
 		<integer>3</integer>
@@ -34,14 +32,18 @@
 		<integer>816</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>5-itlic</string>
+	<string>chanchova_tpwknd_21_5</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-206</integer>
 		<integer>-200</integer>
 	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
 	<key>styleMapFamilyName</key>
-	<string>5 Italic</string>
+	<string>chanchova_tpwknd_21_5</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
