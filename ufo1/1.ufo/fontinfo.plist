@@ -9,15 +9,13 @@
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
-	<string>1</string>
+	<string>chanchova_tpwknd_21_1</string>
 	<key>openTypeHeadCreated</key>
 	<string>2020/08/13 17:25:30</string>
 	<key>openTypeNameLicense</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>https://scripts.sil.org/OFL</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -34,7 +32,7 @@
 		<integer>818</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>1</string>
+	<string>chanchova_tpwknd_21_1</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-220</integer>
