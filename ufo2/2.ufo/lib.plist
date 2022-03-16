@@ -5,6 +5,7 @@
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>ABCDEFGHIJKLMNOPQRSTUVWXYZabcçdefghijklmnñopqrstuvwxyz/c_h 0123456789.,!-/space/tildecomb/cedillacomb</string>
+		<string>w</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
