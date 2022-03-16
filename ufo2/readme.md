@@ -15,6 +15,10 @@ If you like the project, let us know!
 - `Push` UFO files
 - `Add` your name at the contributors list.
 
+### How to name the font 
+- Export the editable file as `otf` in `fonts` folder
+- Name the font `cnanchova`_ `meeting's name` _ `date` _ `player's number`, for example: `chanchova_tpwknd_21_1`
+
 ### License
 The «Chancho va» font and all its associated font files are free software under the SIL Open Font License. Essentially, this gives you the right to download, use, and redistribute the fonts, provided that:
 
